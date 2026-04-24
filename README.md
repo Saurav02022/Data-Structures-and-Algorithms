@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
