@@ -17,6 +17,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
