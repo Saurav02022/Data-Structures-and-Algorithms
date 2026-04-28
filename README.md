@@ -38,8 +38,17 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
