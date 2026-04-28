@@ -3,7 +3,7 @@
  * @return {number}
  */
 var alternateDigitSum = function (n) {
-    let digits = String(n).split("");
+    let digits = String(n);
     let symbol = 1;   // +1 means plus, -1 means minus
     let sum = 0;
 
