@@ -39,6 +39,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
+| [2544-alternating-digit-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/2544-alternating-digit-sum) |
 ## Trie
 |  |
 | ------- |
