@@ -11,5 +11,15 @@ var fib = function (n) {
         return 1
     }
 
-    return fib(n - 1) + fib(n - 2)
+    let firstTerm = 0;
+    let secondTerm = 1;
+
+    for (let i = 1; i <= n; i++) {
+        let thirdTerm = firstTerm + secondTerm;
+
+        firstTerm = secondTerm;
+        secondTerm = thirdTerm;
+    }
+
+    return firstTerm
 };
