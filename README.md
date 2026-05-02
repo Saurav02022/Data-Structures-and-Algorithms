@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
