@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
@@ -31,10 +33,12 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
@@ -77,4 +81,20 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
