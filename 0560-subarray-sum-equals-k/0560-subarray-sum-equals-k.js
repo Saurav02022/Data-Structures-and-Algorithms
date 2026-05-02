@@ -6,15 +6,15 @@
 var subarraySum = function (nums, k) {
     let count = 0;
 
-    // 1. Pick the starting point of the subarray
+    // Loop 1: Pick the starting point
     for (let i = 0; i < nums.length; i++) {
         let currentSum = 0;
 
-        // 2. Pick the ending point and add numbers as you go
+        // Loop 2: Keep adding numbers as you move the ending point
         for (let j = i; j < nums.length; j++) {
-            currentSum += nums[j];
+            currentSum += nums[j]; // Optimization: Add next number directly
 
-            // 3. If the sum matches k, increase our count
+            // Check if the running sum matches k
             if (currentSum === k) {
                 count++;
             }
