@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
@@ -35,6 +37,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 ## Counting
