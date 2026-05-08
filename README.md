@@ -53,11 +53,13 @@
 | [0058-length-of-last-word](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0171-excel-sheet-column-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [2544-alternating-digit-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/2544-alternating-digit-sum) |
