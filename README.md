@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -60,6 +62,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [2544-alternating-digit-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/2544-alternating-digit-sum) |
