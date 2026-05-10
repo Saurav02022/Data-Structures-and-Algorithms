@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
