@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
