@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1796-second-largest-digit-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
