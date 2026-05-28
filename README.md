@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -26,6 +27,7 @@
 | [0012-integer-to-roman](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
@@ -51,6 +53,7 @@
 | [0075-sort-colors](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 ## Counting
@@ -79,6 +82,7 @@
 | [0189-rotate-array](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [2544-alternating-digit-sum](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/2544-alternating-digit-sum) |
 ## Trie
@@ -133,4 +137,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Saurav02022/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
